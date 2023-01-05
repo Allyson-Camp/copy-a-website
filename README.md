@@ -1,1 +1,1 @@
-![wireframe of "build-a-website"](./assets/build-a-website-wireframe)
+![wireframe of "build-a-website"](./assets/website%20wireframe.png)
