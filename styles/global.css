@@ -42,22 +42,45 @@ main {
 
 .top-row {
     display: grid;
-    border: solid red;
+    border: solid red 5px;
     border-style: solid;
+    margin: 2px;
 }
 
 .top-internal {
     display: grid;
     border: solid green;
+    margin: 2px;
 }
 
 .bottom-internal {
     display: grid;
     border: solid yellow;
+    margin: 2px;
 }
 
 .bottom-row {
     display: grid;
-    border: solid pink;
+    border: solid pink 5px;
     grid-template-columns: 33.33% 33.33% 33.33%;
+    margin: 2px;
+
+}
+
+.left-column {
+    display: grid;
+    border: solid magenta;
+    margin: 3px;
+}
+
+.middle-column {
+    display: grid;
+    border: solid blue;
+    margin: 3px;
+}
+
+.right-column {
+    display: grid;
+    border: solid orange;
+    margin: 3px;
 }
