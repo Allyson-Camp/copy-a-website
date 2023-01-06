@@ -42,7 +42,7 @@ main {
 
 .top-row {
     display: grid;
-    border: red;
+    border: solid red;
     border-style: solid;
 }
 
@@ -53,7 +53,7 @@ main {
 
 .bottom-internal {
     display: grid;
-    border: solid green
+    border: solid yellow;
 }
 
 .bottom-row {
